@@ -1,43 +1,42 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://blog.allansene.me" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  title: Allan Sene Blog
+  avatar: eu.jpg
+  gravatar: "559c1397942f8d6da44d358e3dd307eb"
+  description: "A website with blog posts and pages about big data, reactive systems and computer science" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Vagando <a href="http://www.goodreads.com/quotes/229-all-that-is-gold-does-not-glitter-not-all-those">(mas não perdido!)</a> pelos bosques dos sistemas reativos, enfrentando sanguinários processamentos de dados massivos (o tão famigerado Big Data) e grande adepto da poção de café das 14pm.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "allanseneoliveira@gmail.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "allan.sene"
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "allansene"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/allansene"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "http://stackoverflow.com/users/5712620/allan-sene"
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "allansene"
   wordpress:
   youtube:
 
