@@ -1,7 +1,27 @@
 ---
 layout: post
-title: Sample post
+title: Criando um cluster ElasticSearch na Digital Ocean - Parte 1
+comments: true
 ---
+
+Olá pessoal! Este é meu primeiro post no blog e espero que seja o primeiro de muitos! A princípio quero fazer uma série de posts envolvendo as tecnologias que mais [mais me interessam](http://blog.allansene.me/about/), que obviamente mudarão com o passar do tempo. 
+
+A idéia é que ao fim desta série - de ainda não sei quantos - posts, você seja capaz de desenvolver uma aplicação inteligente e escalável. Buscarei dar base para o mais inexperiente desenvolvedor e sempre darei referências de estudo posterior.
+
+{% highlight js %}
+// count to ten
+for (var i = 1; i <= 10; i++) {
+    console.log(i);
+}
+
+// count to twenty
+var j = 0;
+while (j < 20) {
+    j++;
+    console.log(j);
+}
+{% endhighlight %}
+
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
 * Consectetur adipiscing elit
